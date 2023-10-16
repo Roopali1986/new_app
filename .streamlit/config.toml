@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#E694FF"  # A shade of purple for primary actions
+backgroundColor = "#001f3f"  # A deep blue background color
+secondaryBackgroundColor = "#003366"  # A secondary, slightly lighter blue background
+textColor = "#FFFFFF"  # White text color
+font = "sans-serif"  # Default font
